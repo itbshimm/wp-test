@@ -143,6 +143,7 @@ function test_theme_scripts() {
 	wp_enqueue_style( 'test-theme-style', get_stylesheet_uri(), array(), _S_VERSION );
 	
 	wp_enqueue_style( 'test-theme-bootstrap.min', get_template_directory_uri().'/assets/css/bootstrap.min.css' );
+	wp_enqueue_style( 'test-theme-main', get_template_directory_uri().'/assets/css/main.css' );
 
 	wp_style_add_data( 'test-theme-style', 'rtl', 'replace' );
 

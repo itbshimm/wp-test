@@ -23,10 +23,6 @@
 				<div class="modal-body">
 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos asperiores eaque non alias numquam dolores rerum, omnis ipsam cupiditate autem exercitationem deleniti animi, nihil porro corporis est atque expedita quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora a laborum deserunt ea esse dicta minima, nostrum ipsa, fugiat ullam possimus reprehenderit totam molestiae sapiente obcaecati temporibus enim. Sapiente, eaque. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, ducimus? Deleniti repellat delectus explicabo atque quaerat, odio amet. Iusto, fugit. Sed repellat laborum illo voluptatem eligendi eos necessitatibus nesciunt commodi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, explicabo quibusdam atque porro distinctio sed nesciunt vitae totam odio deserunt voluptate. Provident, accusantium voluptatem quos dolore optio rem eum assumenda.
 				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -39,10 +35,6 @@
 				</div>
 				<div class="modal-body">
 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos asperiores eaque non alias numquam dolores rerum, omnis ipsam cupiditate autem exercitationem deleniti animi, nihil porro corporis est atque expedita quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora a laborum deserunt ea esse dicta minima, nostrum ipsa, fugiat ullam possimus reprehenderit totam molestiae sapiente obcaecati temporibus enim. Sapiente, eaque. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, ducimus? Deleniti repellat delectus explicabo atque quaerat, odio amet. Iusto, fugit. Sed repellat laborum illo voluptatem eligendi eos necessitatibus nesciunt commodi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, explicabo quibusdam atque porro distinctio sed nesciunt vitae totam odio deserunt voluptate. Provident, accusantium voluptatem quos dolore optio rem eum assumenda.
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
 				</div>
 			</div>
 		</div>
@@ -57,10 +49,6 @@
 				<div class="modal-body">
 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos asperiores eaque non alias numquam dolores rerum, omnis ipsam cupiditate autem exercitationem deleniti animi, nihil porro corporis est atque expedita quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora a laborum deserunt ea esse dicta minima, nostrum ipsa, fugiat ullam possimus reprehenderit totam molestiae sapiente obcaecati temporibus enim. Sapiente, eaque. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, ducimus? Deleniti repellat delectus explicabo atque quaerat, odio amet. Iusto, fugit. Sed repellat laborum illo voluptatem eligendi eos necessitatibus nesciunt commodi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, explicabo quibusdam atque porro distinctio sed nesciunt vitae totam odio deserunt voluptate. Provident, accusantium voluptatem quos dolore optio rem eum assumenda.
 				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
-				</div>
 			</div>
 		</div>
 	</div>
@@ -73,10 +61,6 @@
 				</div>
 				<div class="modal-body">
 					Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quos asperiores eaque non alias numquam dolores rerum, omnis ipsam cupiditate autem exercitationem deleniti animi, nihil porro corporis est atque expedita quo. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tempora a laborum deserunt ea esse dicta minima, nostrum ipsa, fugiat ullam possimus reprehenderit totam molestiae sapiente obcaecati temporibus enim. Sapiente, eaque. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Veniam, ducimus? Deleniti repellat delectus explicabo atque quaerat, odio amet. Iusto, fugit. Sed repellat laborum illo voluptatem eligendi eos necessitatibus nesciunt commodi. Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, explicabo quibusdam atque porro distinctio sed nesciunt vitae totam odio deserunt voluptate. Provident, accusantium voluptatem quos dolore optio rem eum assumenda.
-				</div>
-				<div class="modal-footer">
-					<button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
-					<button type="button" class="btn btn-primary">Save changes</button>
 				</div>
 			</div>
 		</div>
